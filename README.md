@@ -1,4 +1,6 @@
 # Interview Questions
+Please refer and purchase..its very very good for kotlin and others too.
+https://www.fullstack.cafe/blog/kotlin-interview-questions
  
 ## Kotlin Interview Question and Answers
 
